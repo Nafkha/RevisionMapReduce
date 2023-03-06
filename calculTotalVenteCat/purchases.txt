@@ -1,0 +1,15 @@
+2017-08-01	10:01	Celio	teeshirt	30.10
+2017-08-01	17:05	Zara	pantalon	70.00
+2017-08-01	10:05	Kiabi	jean	55.70
+2017-08-01	12:06	Defacto	teeshirt	50.50
+2017-08-02	13:50	Celio	pantalon	50.60
+2017-08-02	14:40	Celio	teeshirt	35.30
+2017-08-02	11:20	Zara	robe	80.00
+2017-08-03	10:50	Kiabi	teeshirt	30.20
+2017-08-03	11:35	Zara	robe	99.15
+2017-08-03	12:02	Kiabi	teeshirt	40.23
+2017-08-03	10:03	Celio	jean	50.10
+2017-08-04	09:50	Defacto	chemise	35.10
+2017-08-04	10:23	Celio	pantalon	70.20
+2017-08-04	14:50	Kiabi	pull	40.00
+2017-08-04	12:05	Kiabi	teeshirt	40.23
